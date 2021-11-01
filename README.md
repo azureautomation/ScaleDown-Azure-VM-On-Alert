@@ -1,0 +1,1 @@
+# ScaleDown-Azure-VM-On-Alert
